@@ -1,7 +1,8 @@
 # Temperature_RelativeHumidity
 Temperature and Relative Humidity 
-<img src="https://github.com/atmin009/Sin_Cos_Wave/blob/main/sin_cos.gif?raw=true" alt="Trulli" width="auto" height="333">
+<br>
+<img src="https://github.com/atmin009/Temperature_RelativeHumidity/blob/main/giffffff.gif?raw=tru" alt="Trulli" width="auto" height="333">
 <hr>
-Links Video Demo [ https://www.youtube.com/watch?v=14IjoBIrTRM ]
+Links Video Demo [ https://youtu.be/vbg-Fj2BBW8 ]
 <hr>
 This code was created for classroom learning in the ITD-Internet of Things subject, Information Technology and Digital Innovation. Walailak University
